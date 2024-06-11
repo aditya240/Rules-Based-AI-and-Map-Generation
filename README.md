@@ -1,4 +1,4 @@
-S3-GAME-AI
+
 Project Overview :-
 
 S3-GAME-AI is a rules-based AI system engineered in Java to play a Real-Time Strategy (RTS) game against a single player, either human or AI. The project showcases the development of a flexible AI system that can be easily modified through external rule changes.
