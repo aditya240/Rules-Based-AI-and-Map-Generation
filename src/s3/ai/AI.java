@@ -9,9 +9,6 @@ import s3.entities.WPlayer;
 
 /**
  * Interface of the towers AIs.
- * 
- * @author Santi Ontanon
- * adapted from the same class for Towers by Marco Antonio
  */
 public interface AI {
 
